@@ -1,0 +1,5 @@
+kaggle/
+__pycache__/
+
+best_model.h5
+log.log
